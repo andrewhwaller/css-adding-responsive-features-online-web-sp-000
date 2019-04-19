@@ -33,4 +33,8 @@
     right: 4px;
     width: auto;
   }
+
+  col-3 p {
+    column-count: 3;
+  }
 }
