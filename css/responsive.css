@@ -34,7 +34,7 @@
     width: auto;
   }
 
-  col-3 p {
+  .col-3 p {
     column-count: 3;
   }
 }
