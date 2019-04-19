@@ -69,4 +69,8 @@
     float: none;
     column-count: 1;
   }
+
+  .border-right {
+    border: 0;
+  }
 }
